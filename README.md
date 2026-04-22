@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./figs/SoloClaw-initial-icon.png" alt="SoloClaw" width="500" />
+  <img src="./figs/SoloClaw-initial-icon.jpeg" alt="SoloClaw" width="500" />
 </p>
 
 <p align="center">
